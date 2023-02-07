@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		"ms-playwright.playwright",
+		"christopheralphonse.azalais-dark-theme",
+		"mikestead.dotenv",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"1yib.svelte-bundle",
+		"fivethree.vscode-svelte-snippets",
+		"pivaszbs.svelte-autoimport",
+		"svelte.svelte-vscode",
+		"ardenivanov.svelte-intellisense",
+		"nawaz.svelte-snippets",
+		"bradlc.vscode-tailwindcss"
+	]
+}
